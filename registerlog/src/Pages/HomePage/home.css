@@ -1,0 +1,14 @@
+.home-heading{
+    font-size: 50px; 
+    font-weight: 600;
+ }
+ 
+ .underline:hover{
+    border-bottom: 2px solid #77CF16 ;
+    position: relative;
+   display: inline-block; 
+ }
+ 
+ .custom-carousel {
+    background-color: #000 !important;
+  }

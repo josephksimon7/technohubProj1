@@ -1,0 +1,25 @@
+ .custom-button{
+  
+     /* height: 59px;
+    width: 369px; */
+    margin-top: 10px; 
+}
+.ikon{
+    height: 40px;
+    width: fit-content;
+    padding: 5px;
+}
+.customform{
+    color: #A7A3FF;
+    /* height: 62px;
+    width: 369px; */
+    
+} 
+.customimage{
+    height: 556px;
+    width: 313px;
+    
+}
+.headingreg{
+    font-size: 50px;
+}
